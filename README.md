@@ -1,4 +1,6 @@
-<h1>Miguel Ferreira • Back-End Developer</h1>
+# Miguel Ferreira
+
+**`Desenvolvedor Back-End`**
 
 <p>Me chamo <strong>Miguel Freitas Ferreira</strong>, tenho 19 anos e sou estudante universitário.  
 Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções digitais. Gosto de aprender novas ferramentas, explorar diferentes áreas da computação e enfrentar desafios de lógica.</p>
