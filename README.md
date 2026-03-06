@@ -34,9 +34,16 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+<br>
 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelFerreira-CMD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFerreira-CMD&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<table align="center>
+  <tr>
+    <td>
+      <br />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelFerreira-CMD&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
