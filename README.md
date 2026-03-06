@@ -36,7 +36,7 @@ class Skills extends Desenvolvedor {
 
 <br>
 
-<table align="center>
+<table align="center">
   <tr>
     <td>
       <br />
