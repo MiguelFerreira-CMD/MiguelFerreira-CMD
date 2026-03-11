@@ -2,10 +2,12 @@
 
 **`Desenvolvedor Back-End`**
 
-<p>Me chamo <strong>Miguel Freitas Ferreira</strong>, tenho 19 anos e sou estudante universitário.  
-Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções digitais. Gosto de aprender novas ferramentas, explorar diferentes áreas da computação e enfrentar desafios de lógica.</p>
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl1aXIwOXVwbGd4cHEzNnR6bTZleWwzeDN6ZXU5azA1Y2tycHZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"/>
 
-<p>Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas habilidades na área de tecnologia. Sou uma pessoa dedicada, curiosa e comprometida com meu desenvolvimento pessoal e profissional.</p>
+<p>Me chamo <strong>Miguel Freitas Ferreira</strong>, tenho 19 anos e sou estudante universitário. Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções digitais. Gosto de aprender novas ferramentas, explorar diferentes áreas da computação e enfrentar desafios de lógica.
+  
+Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas habilidades. Sou uma pessoa dedicada, curiosa e comprometida com meu desenvolvimento pessoal e profissional.</p>
+
 
 <br>
 
@@ -18,7 +20,6 @@ Tenho grande interesse por tecnologia, programação e desenvolvimento de soluç
 <img alt="MongoDB" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
 <img alt="Express.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"****>
 <img alt="TailwindCSS" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-<img alt="Monogoose" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" >
 <img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
 </div>
@@ -45,17 +46,15 @@ class Skills extends Desenvolvedor {
 
 **`Estatística:`**
 
-<table>
-  <tr>
-    <td>
-      <br />
-      <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=MiguelFerreira-CMD&theme=dracula&hide_border=false"
-       alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFerreira-CMD&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelFerreira-CMD&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelFerreira-CMD&theme=darcula&utcOffset=8) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFerreira-CMD&theme=darcula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelFerreira-CMD&theme=darcula)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
 
 <br>
 
