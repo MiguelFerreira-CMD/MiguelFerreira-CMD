@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Back-End`**
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl1aXIwOXVwbGd4cHEzNnR6bTZleWwzeDN6ZXU5azA1Y2tycHZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"/>
+<img align="right" height="150"
+style="margin-left:20px;"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl1aXIwOXVwbGd4cHEzNnR6bTZleWwzeDN6ZXU5azA1Y2tycHZnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif"/>
 
 <p>Me chamo <strong>Miguel Freitas Ferreira</strong>, tenho 19 anos e sou estudante universitário. Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções digitais. Gosto de aprender novas ferramentas, explorar diferentes áreas da computação e enfrentar desafios de lógica.
   
