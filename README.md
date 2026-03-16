@@ -22,7 +22,6 @@ Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas h
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"/>
 <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
 <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"/>
 </div>
 
 
