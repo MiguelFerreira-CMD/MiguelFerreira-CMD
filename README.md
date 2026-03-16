@@ -11,15 +11,18 @@ Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas h
 
 **`🛠️ Stacks & Tools:`**
 <div>
-<img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Node.js" height="75" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-<img alt="MongoDB" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-<img alt="Mongoose" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
-<img alt="Express.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"****>
-<img alt="TailwindCSS" height="55" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" >
-<img alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"/>
+<img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"/>
+<img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"/>
+<img alt="Mongoose" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
+<img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
+<img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"/>
+<img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"/>
 </div>
 
 
