@@ -19,7 +19,6 @@ Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas h
 <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"/>
 <img alt="Mongoose" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg">
 <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
-<img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"/>
 <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
 <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
 </div>
