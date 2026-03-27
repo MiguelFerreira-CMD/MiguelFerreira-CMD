@@ -36,8 +36,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  softSkills = ["Resolução de Problemas", "Atenção aos Detalhes", "Trabalho em Equipe", "Focado", "Banco de Dados", "Node.js"];
-  hobbies  = ["Estudar", "Programar", "Dormir", "Jogar"];
+  softSkills = ["Resolução de Problemas", "Atenção aos Detalhes", "Trabalho em Equipe", "Focado"];
+  hobbies  = ["Programar", "Dormir", "Jogar"];
 }
 ```
 
