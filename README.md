@@ -15,6 +15,8 @@ Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas h
 <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"/>
 <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"/>
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"/>
 <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
 <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
