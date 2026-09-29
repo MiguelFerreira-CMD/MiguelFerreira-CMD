@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-<p>Me chamo <strong>Miguel Freitas Ferreira</strong>, tenho 19 anos e sou estudante universitário. Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções digitais. Gosto de aprender novas ferramentas, explorar diferentes áreas da computação e enfrentar desafios de lógica.
+<p>Me chamo <strong>Miguel Freitas Ferreira</strong>, sou estudante universitário. Tenho grande interesse por tecnologia, programação e desenvolvimento de soluções digitais. Gosto de aprender novas ferramentas, explorar diferentes áreas da computação e enfrentar desafios de lógica.
   
 Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas habilidades. Sou uma pessoa dedicada, curiosa e comprometida com meu desenvolvimento pessoal e profissional.</p>
 
