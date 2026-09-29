@@ -18,7 +18,6 @@ Estou sempre buscando evoluir, adquirir novos conhecimentos e aprimorar minhas h
 <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"/>
-<img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"/>
 <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
 <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"/>
 </div>
@@ -47,7 +46,7 @@ class Skills extends Desenvolvedor {
 
 <div align="center">
   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFerreira-CMD&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelFerreira-CMD&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelFerreira-CMD&theme=darcula&utcOffset=8) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelFerreira-CMD&theme=darcula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiguelFerreira-CMD&theme=darcula&v=2) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelFerreira-CMD&theme=darcula&utcOffset=8) |
 | :-: | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelFerreira-CMD&theme=darcula) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelFerreira-CMD&theme=darcula)](https://git.io/streak-stats) |
