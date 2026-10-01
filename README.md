@@ -61,6 +61,6 @@ class Skills extends Desenvolvedor {
 
 **`Entre em Contato!`**
 
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freitasmiguel1801@gmail.com)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelfreitasferreira18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelferreira18/)
 [![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
